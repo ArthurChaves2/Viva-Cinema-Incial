@@ -1,0 +1,73 @@
+/* Estilos gerais */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Container */
+/* Estilos gerais */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Container */
+.container {
+    text-align: center;
+    padding: 20px;
+    background-color: #efefef
+}
+
+/* Estilo para o título */
+h1 {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: #000000;
+}
+
+ul {
+    display: block;
+    margin-bottom: 20px;
+    text-align: left;
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 1rem;
+}
+
+/* Estilo para a imagem principal */
+.imagem_principal {
+    width: 1024px;
+    height: 800;
+}
+
+/* Estilo para a coluna de imagens */
+.image-column {
+    padding-top: 100px;
+    display: flex;
+    gap: 20px;
+}
+
+.image-2 {
+    padding-top: 100px;
+    display: flex;
+    gap: 20px;
+}
+
+.image-3 {
+    padding-top: 100px;
+    display: flex;
+    gap: 20px;
+}
+
+/* Estilo para imagens menores */
+.img-secundaria {
+    text-align: right;
+    width: 300px;
+    height: 250px;
+}
